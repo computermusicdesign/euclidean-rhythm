@@ -12,4 +12,4 @@ simpleEuclideanRhythm.maxpat -- a basic max patch to demonstrate the functionali
 
 euclidean_circular_view.pde -- A processing sketch to create circular visualizations of euclidean rhythms. Includes an implementation of our algorithm in C.
 
-euclidean-visualization.pde -- A processing sketch to create visualizations for the blogpost
+euclidean-visualization.pde -- A processing sketch to create visualizations for the blogpost.
