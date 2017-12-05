@@ -6,9 +6,9 @@ http://www.computermusicdesign.com/simplest-euclidean-rhythm-algorithm-explained
 
 <h3>Files in this repository</h3>
 
-euclidSimple.js -- a simple implementation of our euclidean rhythm algorithm
+euclidSimple.js -- a simple implementation of our euclidean rhythm algorithm. Includes an implementation of our algorithm in javascript.
 
-simpleEuclideanRhythm.maxpat -- a basic max patch to demonstrate the functionality of euclidSimple.js. Includes an implementation of our algorithm in javascript.
+simpleEuclideanRhythm.maxpat -- a basic max patch to demonstrate the functionality of euclidSimple.js.
 
 euclidean_circular_view.pde -- A processing sketch to create circular visualizations of euclidean rhythms. Includes an implementation of our algorithm in C.
 
