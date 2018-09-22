@@ -32,7 +32,7 @@ var storedRhythm = new Array(0,0,0,0);
 //calculate a euclidean rhythm
 function euclid( steps,  pulses, rotate){
 	rotate += 1;
-	rotate % steps;
+	rotate %= steps;
 	storedRhythm = []; //empty current track
 	var bucket = 0;
 	
